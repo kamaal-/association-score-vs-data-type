@@ -29,3 +29,16 @@ Will run components and utility unit test.
   
 All compoenents are unit test & snapshot added.  You can update the ui theme by updating `src/config/index.js` file.
 
+Each rows are ecollapsible and contain both radar and bar charts with tabs.
+
+![Grid](https://raw.githubusercontent.com/kamaal-/association-score-vs-data-type/master/assets/grid.png)
+
+
+#### Collpsible Row
+
+![Bar chart](https://raw.githubusercontent.com/kamaal-/association-score-vs-data-type/master/assets/bar.png)
+
+
+#### Radar chart
+
+![Radar chart](https://raw.githubusercontent.com/kamaal-/association-score-vs-data-type/master/assets/radar.png)
