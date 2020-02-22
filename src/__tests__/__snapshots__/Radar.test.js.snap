@@ -1,0 +1,277 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Radar Chart should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    style="height: 100%;"
+  >
+    <h4
+      style="margin: 0px 0px 10px 0px; height: 20px;"
+    />
+    <svg
+      style="width: 100%; height: 100%;"
+    >
+      <g
+        transform="translate(0, 5) rotate(-90)"
+      >
+        <line
+          class="lines"
+          data-testid="axis-lines"
+          stroke="rgba(65, 41, 96, 0.3)"
+          stroke-width="1"
+          x0="0"
+          x1="-25"
+          y0="0"
+          y1="0"
+        />
+        <line
+          class="lines"
+          data-testid="axis-lines"
+          stroke="rgba(65, 41, 96, 0.3)"
+          stroke-width="1"
+          x0="0"
+          x1="-15.58724504646834"
+          y0="0"
+          y1="-19.545787061700747"
+        />
+        <line
+          class="lines"
+          data-testid="axis-lines"
+          stroke="rgba(65, 41, 96, 0.3)"
+          stroke-width="1"
+          x0="0"
+          x1="5.563023348907858"
+          y0="0"
+          y1="-24.37319780454559"
+        />
+        <line
+          class="lines"
+          data-testid="axis-lines"
+          stroke="rgba(65, 41, 96, 0.3)"
+          stroke-width="1"
+          x0="0"
+          x1="22.524221697560478"
+          y0="0"
+          y1="-10.847093477938955"
+        />
+        <line
+          class="lines"
+          data-testid="axis-lines"
+          stroke="rgba(65, 41, 96, 0.3)"
+          stroke-width="1"
+          x0="0"
+          x1="22.524221697560478"
+          y0="0"
+          y1="10.84709347793895"
+        />
+        <line
+          class="lines"
+          data-testid="axis-lines"
+          stroke="rgba(65, 41, 96, 0.3)"
+          stroke-width="1"
+          x0="0"
+          x1="5.563023348907865"
+          y0="0"
+          y1="24.37319780454559"
+        />
+        <line
+          class="lines"
+          data-testid="axis-lines"
+          stroke="rgba(65, 41, 96, 0.3)"
+          stroke-width="1"
+          x0="0"
+          x1="-15.587245046468334"
+          y0="0"
+          y1="19.545787061700747"
+        />
+        <g
+          transform="translate(-15,35) rotate(90)"
+        >
+          <text
+            data-testid="radar-axis-labels"
+            fill="#412960"
+            style="text-anchor: middle; font-size: 12;"
+            x="-25"
+            y="0"
+          >
+            Literature
+          </text>
+        </g>
+        <g
+          transform="translate(-42.13303210816909,6.041457984767593) rotate(90)"
+        >
+          <text
+            data-testid="radar-axis-labels"
+            fill="#412960"
+            style="text-anchor: start; font-size: 12;"
+            x="-15.58724504646834"
+            y="-19.545787061700747"
+          >
+            RNA Expression
+          </text>
+        </g>
+        <g
+          transform="translate(-25.810174455637732,-19.93622115345345) rotate(90)"
+        >
+          <text
+            data-testid="radar-axis-labels"
+            fill="#412960"
+            style="text-anchor: start; font-size: 12;"
+            x="5.563023348907858"
+            y="-24.37319780454559"
+          >
+            Genetic Association
+          </text>
+        </g>
+        <g
+          transform="translate(4.6771282196215225,-23.371315175499433) rotate(90)"
+        >
+          <text
+            data-testid="radar-axis-labels"
+            fill="#412960"
+            style="text-anchor: start; font-size: 12;"
+            x="22.524221697560478"
+            y="-10.847093477938955"
+          >
+            Somatic Mutation
+          </text>
+        </g>
+        <g
+          transform="translate(26.371315175499426,-21.67712821962153) rotate(90)"
+        >
+          <text
+            data-testid="radar-axis-labels"
+            fill="#412960"
+            style="text-anchor: end; font-size: 12;"
+            x="22.524221697560478"
+            y="10.84709347793895"
+          >
+            Known Drug
+          </text>
+        </g>
+        <g
+          transform="translate(22.936221153453456,8.810174455637725) rotate(90)"
+        >
+          <text
+            data-testid="radar-axis-labels"
+            fill="#412960"
+            style="text-anchor: end; font-size: 12;"
+            x="5.563023348907865"
+            y="24.37319780454559"
+          >
+            Animal Model
+          </text>
+        </g>
+        <g
+          transform="translate(-3.0414579847675878,25.133032108169083) rotate(90)"
+        >
+          <text
+            data-testid="radar-axis-labels"
+            fill="#412960"
+            style="text-anchor: end; font-size: 12;"
+            x="-15.587245046468334"
+            y="19.545787061700747"
+          >
+            Affected Pathway
+          </text>
+        </g>
+        <g>
+          <polygon
+            class="ring"
+            data-testid="radar-steps-poly"
+            fill="transparent"
+            points="0,0 0,0 0,0 0,0 0,0 0,0 0,0"
+            stroke="rgba(65, 41, 96, 0.3)"
+          />
+          <polygon
+            class="ring"
+            data-testid="radar-steps-poly"
+            fill="transparent"
+            points="-6.25,0 -3.896811261617085,-4.886446765425187 1.3907558372269646,-6.093299451136398 5.631055424390119,-2.711773369484739 5.631055424390119,2.7117733694847375 1.3907558372269662,6.093299451136398 -3.8968112616170836,4.886446765425187"
+            stroke="rgba(65, 41, 96, 0.3)"
+          />
+          <polygon
+            class="ring"
+            data-testid="radar-steps-poly"
+            fill="transparent"
+            points="-12.5,0 -7.79362252323417,-9.772893530850373 2.781511674453929,-12.186598902272795 11.262110848780239,-5.423546738969478 11.262110848780239,5.423546738969475 2.7815116744539323,12.186598902272795 -7.793622523234167,9.772893530850373"
+            stroke="rgba(65, 41, 96, 0.3)"
+          />
+          <polygon
+            class="ring"
+            data-testid="radar-steps-poly"
+            fill="transparent"
+            points="-18.75,0 -11.690433784851255,-14.659340296275559 4.172267511680894,-18.279898353409195 16.89316627317036,-8.135320108454216 16.89316627317036,8.135320108454213 4.172267511680898,18.279898353409195 -11.690433784851251,14.65934029627556"
+            stroke="rgba(65, 41, 96, 0.3)"
+          />
+          <polygon
+            class="ring"
+            data-testid="radar-steps-poly"
+            fill="transparent"
+            points="-25,0 -15.58724504646834,-19.545787061700747 5.563023348907858,-24.37319780454559 22.524221697560478,-10.847093477938955 22.524221697560478,10.84709347793895 5.563023348907865,24.37319780454559 -15.587245046468334,19.545787061700747"
+            stroke="rgba(65, 41, 96, 0.3)"
+          />
+        </g>
+        <g
+          transform="rotate(90)"
+        >
+          <text
+            data-testid="radar-steps-text"
+            fill="#412960"
+            style="font-size: 12;"
+            x="5"
+            y="5"
+          >
+            0
+          </text>
+          <text
+            data-testid="radar-steps-text"
+            fill="#412960"
+            style="font-size: 12;"
+            x="5"
+            y="11.25"
+          >
+            0.25
+          </text>
+          <text
+            data-testid="radar-steps-text"
+            fill="#412960"
+            style="font-size: 12;"
+            x="5"
+            y="17.5"
+          >
+            0.5
+          </text>
+          <text
+            data-testid="radar-steps-text"
+            fill="#412960"
+            style="font-size: 12;"
+            x="5"
+            y="23.75"
+          >
+            0.75
+          </text>
+          <text
+            data-testid="radar-steps-text"
+            fill="#412960"
+            style="font-size: 12;"
+            x="5"
+            y="30"
+          >
+            1
+          </text>
+        </g>
+        <polygon
+          class="area"
+          data-testid="radar-poly"
+          fill="rgba(65, 41, 96, 0.7)"
+          points="-8.158835581047269,0 -1.0125163936859527,-1.2696553989154602 5.563023348907858,-24.37319780454559 22.524221697560478,-10.847093477938955 22.524221697560478,10.84709347793895 0,0 -15.587245046468334,19.545787061700747"
+          stroke="transparent"
+          stroke-linejoin="bevel"
+          stroke-width="0"
+        />
+      </g>
+    </svg>
+  </div>
+</DocumentFragment>
+`;

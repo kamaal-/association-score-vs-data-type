@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Collapsible Row should match snapshot 1`] = `
+<DocumentFragment>
+  <tr
+    class="MuiTableRow-root"
+    data-testid="collapsible-tr"
+  >
+    <td
+      class="MuiTableCell-root"
+      colspan="5"
+      style="padding-bottom: 0px; padding-top: 0px;"
+    />
+  </tr>
+</DocumentFragment>
+`;

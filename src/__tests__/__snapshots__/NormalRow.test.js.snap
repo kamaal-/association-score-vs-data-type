@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Row should match snapshot 1`] = `
+<DocumentFragment>
+  <tr
+    class="MuiTableRow-root"
+    data-testid="actual-tr"
+  >
+    <th
+      class="MuiTableCell-root"
+      scope="row"
+      small="small"
+    >
+      <button
+        aria-label="delete"
+        class="MuiButtonBase-root MuiIconButton-root"
+        data-testid="collapse-btn"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+            />
+          </svg>
+        </span>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </button>
+    </th>
+    <td
+      class="MuiTableCell-root MuiTableCell-alignLeft"
+    >
+      EGFR
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-alignLeft"
+    >
+      ENSG00000146648
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-alignLeft"
+    >
+      epidermal growth factor receptor
+    </td>
+    <td
+      class="MuiTableCell-root MuiTableCell-alignLeft"
+    >
+      1
+    </td>
+  </tr>
+</DocumentFragment>
+`;

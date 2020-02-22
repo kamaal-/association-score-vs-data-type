@@ -1,0 +1,25 @@
+.App {
+  align-items: center;
+  display: flex-start;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 40px;
+  background-color: #ccc;
+}
+
+.horizontal__grids line {
+  stroke: #412960;
+  stroke-opacity: 0.1;
+  shape-rendering: crispEdges;
+}
+.horizontal__grids .domain{
+  display: none;
+}
+
+.tick text{
+  color:  #412960;
+}
+
+.vertical__axis .domain, .horizontal__axis .domain{
+  stroke: #412960;
+}

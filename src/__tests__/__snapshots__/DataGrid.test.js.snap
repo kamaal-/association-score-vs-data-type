@@ -1,0 +1,394 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiTableContainer-root MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <table
+      aria-label="caption table"
+      class="MuiTable-root makeStyles-table-343"
+    >
+      <caption>
+        Genes associated with lung carcinoma
+      </caption>
+      <thead
+        class="MuiTableHead-root"
+      >
+        <tr
+          class="MuiTableRow-root MuiTableRow-head"
+          data-testid="title-tr"
+        >
+          <th
+            class="MuiTableCell-root MuiTableCell-head"
+            scope="col"
+          />
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignLeft"
+            scope="col"
+          >
+            Symbol
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignLeft"
+            scope="col"
+          >
+            Gene ID
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignLeft"
+            scope="col"
+          >
+            Gene Name
+          </th>
+          <th
+            class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignLeft"
+            scope="col"
+          >
+            Overall Association Score
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        class="MuiTableBody-root"
+      >
+        <tr
+          class="MuiTableRow-root"
+          data-testid="actual-tr"
+        >
+          <th
+            class="MuiTableCell-root MuiTableCell-body"
+            scope="row"
+            small="small"
+          >
+            <button
+              aria-label="delete"
+              class="MuiButtonBase-root MuiIconButton-root"
+              data-testid="collapse-btn"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </th>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            EGFR
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            ENSG00000146648
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            epidermal growth factor receptor
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            1
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root"
+          data-testid="collapsible-tr"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body"
+            colspan="5"
+            style="padding-bottom: 0px; padding-top: 0px;"
+          />
+        </tr>
+        <tr
+          class="MuiTableRow-root"
+          data-testid="actual-tr"
+        >
+          <th
+            class="MuiTableCell-root MuiTableCell-body"
+            scope="row"
+            small="small"
+          >
+            <button
+              aria-label="delete"
+              class="MuiButtonBase-root MuiIconButton-root"
+              data-testid="collapse-btn"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </th>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            SMAD2
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            ENSG00000175387
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            SMAD family member 2
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            0.795385609949128
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root"
+          data-testid="collapsible-tr"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body"
+            colspan="5"
+            style="padding-bottom: 0px; padding-top: 0px;"
+          />
+        </tr>
+        <tr
+          class="MuiTableRow-root"
+          data-testid="actual-tr"
+        >
+          <th
+            class="MuiTableCell-root MuiTableCell-body"
+            scope="row"
+            small="small"
+          >
+            <button
+              aria-label="delete"
+              class="MuiButtonBase-root MuiIconButton-root"
+              data-testid="collapse-btn"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </th>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            TGFBR2
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            ENSG00000163513
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            transforming growth factor beta receptor 2
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            0.7867312254055623
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root"
+          data-testid="collapsible-tr"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body"
+            colspan="5"
+            style="padding-bottom: 0px; padding-top: 0px;"
+          />
+        </tr>
+        <tr
+          class="MuiTableRow-root"
+          data-testid="actual-tr"
+        >
+          <th
+            class="MuiTableCell-root MuiTableCell-body"
+            scope="row"
+            small="small"
+          >
+            <button
+              aria-label="delete"
+              class="MuiButtonBase-root MuiIconButton-root"
+              data-testid="collapse-btn"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </th>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            TNFRSF10C
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            ENSG00000173535
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            TNF receptor superfamily member 10c
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            0.6378002776688643
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root"
+          data-testid="collapsible-tr"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body"
+            colspan="5"
+            style="padding-bottom: 0px; padding-top: 0px;"
+          />
+        </tr>
+        <tr
+          class="MuiTableRow-root"
+          data-testid="actual-tr"
+        >
+          <th
+            class="MuiTableCell-root MuiTableCell-body"
+            scope="row"
+            small="small"
+          >
+            <button
+              aria-label="delete"
+              class="MuiButtonBase-root MuiIconButton-root"
+              data-testid="collapse-btn"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                  focusable="false"
+                  role="presentation"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+                  />
+                </svg>
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </th>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            GATAD2B
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            ENSG00000143614
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            GATA zinc finger domain containing 2B
+          </td>
+          <td
+            class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignLeft"
+          >
+            0.637625
+          </td>
+        </tr>
+        <tr
+          class="MuiTableRow-root"
+          data-testid="collapsible-tr"
+        >
+          <td
+            class="MuiTableCell-root MuiTableCell-body"
+            colspan="5"
+            style="padding-bottom: 0px; padding-top: 0px;"
+          />
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</DocumentFragment>
+`;
