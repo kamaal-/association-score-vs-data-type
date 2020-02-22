@@ -31,6 +31,10 @@ All compoenents are unit test & snapshot added.  You can update the ui theme by 
 
 Each rows are ecollapsible and contain both radar and bar charts with tabs.
 
+<a href="https://pacific-plateau-16885.herokuapp.com/">Demo Link</a>
+
+#### Grid
+
 ![Grid](https://raw.githubusercontent.com/kamaal-/association-score-vs-data-type/master/assets/grid.png)
 
 
